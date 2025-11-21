@@ -2,6 +2,123 @@
   "articles": [
     {
     "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "Eliza Shapiro",
+    "title": "Zohran Mamdani and the Revenge of the Struggling Yuppie",
+    "description": "When the city becomes a “luxury product,” even the comfortable start to rebel.",
+    "url": "https://www.nytimes.com/2025/11/07/nyregion/zohran-mamdani-voters-upper-middle-class.html?searchResultPosition=2",
+    "urlToImage": null,
+    "publishedAt": "November 7",
+    "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emma G. Fitzsimmons",
+      "title": "An Emboldened Mamdani Sheds Conciliatory Tone",
+      "description": "Fresh from a stunning victory, Zohran Mamdani, the mayor-elect, said in an interview that his supporters wanted “a politics of consistency” and aggressive action, including on taxing the rich.",
+      "url": "https://www.nytimes.com/2025/11/05/nyregion/zohran-mamdani-wins-interview.html?searchResultPosition=3",
+      "urlToImage": null,
+      "publishedAt": "November 5",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Mihir Zaveri",
+      "title": "Where Mamdani Found the Blueprints to Run for Mayor",
+      "description": "Before Zohran Mamdani became a state legislator, he helped South Asian New Yorkers who were in danger of losing their homes because of tax liens and job losses.",
+      "url": "https://www.nytimes.com/2025/10/30/nyregion/zohran-mamdani-howeowners.html?searchResultPosition=4",
+      "urlToImage": null,
+      "publishedAt": "October 30",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emma G. Fitzsimmons",
+      "title": "Trump and Mamdani Will Meet at White House on Friday",
+      "description": "The meeting between Zohran Mamdani, the mayor-elect of New York City, and President Trump will come after the two men have fiercely attacked one another.",
+      "url": "https://www.nytimes.com/2025/11/19/nyregion/trump-mamdani-white-house-meeting.html?searchResultPosition=5",
+      "urlToImage": null,
+      "publishedAt": "November 19",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emma G. Fitzsimmons",
+      "title": "Zohran Mamdani Is Elected Mayor of New York City",
+      "description": "Mr. Mamdani, a state lawmaker and democratic socialist, will be the first Muslim mayor in the city’s history.",
+      "url": "https://www.nytimes.com/2025/11/04/nyregion/nyc-mayor-mamdani-elected.html?searchResultPosition=6",
+      "urlToImage": null,
+      "publishedAt": "November 4",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emma G. Fitzsimmons and Jeffery C. Mays",
+      "title": "Trump and Mamdani Will Meet for First Time, With Implications for New York",
+      "description": "Zohran Mamdani, the mayor-elect of New York City, will go to the White House on Friday. The stakes are high for the city.",
+      "url": "https://www.nytimes.com/2025/11/20/nyregion/mamdani-trump-meeting.html?searchResultPosition=7",
+      "urlToImage": null,
+      "publishedAt": "November 20",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Nicholas Fandos and Benjamin Oreskes",
+      "title": "The Strategic Uncoupling of Zohran Mamdani and Brad Lander",
+      "description": "Mr. Lander, the New York City comptroller, campaigned with Mr. Mamdani and once hoped to join him in City Hall. Now he is eyeing a congressional seat.",
+      "url": "https://www.nytimes.com/2025/11/14/nyregion/mamdani-lander-dan-goldman.html?searchResultPosition=8",
+      "urlToImage": null,
+      "publishedAt": "November 14",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Chelsia Rose Marcius and Maia Coleman",
+      "title": "She Runs the N.Y.P.D. He’ll Lead the City. Here’s Where They Disagree.",
+      "description": "The New York City mayor-to-be, Zohran Mamdani, and the head of the Police Department, Jessica Tisch, have gaps to bridge on crime and policing.",
+      "url": "https://www.nytimes.com/2025/11/19/nyregion/mamdani-tisch-what-to-know.html?searchResultPosition=9",
+      "urlToImage": null,
+      "publishedAt": "November 19",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Nicholas Fandos, Emma G. Fitzsimmons and Benjamin Oreskes",
+      "title": "Mamdani, Mofongo and Rum: Democratic Squabbles Fade Away, for Now",
+      "description": "At an annual gathering in Puerto Rico for New York’s political class, former foes of Zohran Mamdani put aside their differences and tried to get information about his inner circle.",
+      "url": "https://www.nytimes.com/2025/11/09/nyregion/mamdani-somos-puerto-rico.html?searchResultPosition=10",
+      "urlToImage": null,
+      "publishedAt": "November 9",
+      "content": null
+    },
+    {
+    "source": {
       "id": "ca-national-news",
       "name": "Canadian National News"
     },
@@ -102,149 +219,6 @@
       "url": "https://www.theglobeandmail.com/opinion/article-zohran-mamdani-democratic-party-socialism/",
       "urlToImage": null,
       "publishedAt": "October 24, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "Zohran Mamdani shows that centrism isn’t the only path for electoral success on the left",
-      "description": "Content Type: Opinion",
-      "url": "https://www.theglobeandmail.com/opinion/article-zohran-mamdani-new-york-democrats/",
-      "urlToImage": null,
-      "publishedAt": "July 15, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "Andrew Cuomo stays in NYC mayor’s race as an independent after Democratic primary loss to Zohran Mamdani",
-      "description": "No detailed summary available in snippet.",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-andrew-cuomo-nyc-mayor-race-zohran-mamdani/",
-      "urlToImage": null,
-      "publishedAt": "July 14, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "Democrats battle over party’s future after Mamdani stuns in New York City",
-      "description": "No detailed summary available in snippet.",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-democrats-zohrani-mamdani-fallout-new-york-mayor-andrew-cuomo/",
-      "urlToImage": null,
-      "publishedAt": "June 25, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "Zohran Mamdani wins New York’s Democratic mayoral primary, defeating Andrew Cuomo",
-      "description": "No detailed summary available in snippet.",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-zohran-mamdani-wins-new-york-mayoral-primary/",
-      "urlToImage": null,
-      "publishedAt": "July 1, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "Who is Zohran Mamdani, the state lawmaker seeking to become New York’s first Muslim mayor?",
-      "description": "Content Type: Explainer",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-zohran-mamdani-new-york-mayor-race-andrew-cuomo/",
-      "urlToImage": null,
-      "publishedAt": "June 25, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "Andrew Cuomo concedes New York’s mayoral primary in surprise win for Zohran Mamdani",
-      "description": "No detailed summary available in snippet.",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-new-york-mayor-primary-zohran-mamdani-andrew-cuomo/",
-      "urlToImage": null,
-      "publishedAt": "June 24, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "Democratic star Zohran Mamdani might just be the party’s future",
-      "description": "Content Type: Opinion",
-      "url": "https://www.theglobeandmail.com/opinion/article-democratic-star-zohran-mamdani/",
-      "urlToImage": null,
-      "publishedAt": "July 3, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "How Zohran Mamdani, a critic of Israel, excelled among Democrats in America’s most Jewish city",
-      "description": "No detailed summary available in snippet.",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-democrats-jewish-new-york-zohran-mamdani-mayor/",
-      "urlToImage": null,
-      "publishedAt": "June 29, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "A house divided: Mamdani win, Iran response show Trump’s reshaping of U.S. politics",
-      "description": "Content Type: Analysis",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-zohran-mamdani-cuomo-new-york-mayoral-primary-iran-trump/",
-      "urlToImage": null,
-      "publishedAt": "June 25, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "Trump threatens to arrest NYC Democratic mayoral nominee Zohran Mamdani if he blocks ICE",
-      "description": "No detailed summary available in snippet.",
-      "url": "https://www.theglobeandmail.com/world/video-trump-threatens-to-arrest-nyc-democratic-mayoral-nominee-zohran/",
-      "urlToImage": null,
-      "publishedAt": "July 1, 2025",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ca-national-news",
-        "name": "Canadian National News"
-      },
-      "author": null,
-      "title": "Zohran Mamdani rockets from relative obscurity to become top contender in New York's mayoral race",
-      "description": "No detailed summary available in snippet.",
-      "url": "https://www.theglobeandmail.com/world/video-zohran-mamdani-rockets-from-relative-obscurity-to-become-top-contender/",
-      "urlToImage": null,
-      "publishedAt": "June 24, 2025",
       "content": null
     },
     {
