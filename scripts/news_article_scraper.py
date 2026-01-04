@@ -2,8 +2,10 @@ import argparse
 import requests
 import json
 import os
+from dotenv import load_dotenv
 
-API_KEY = "9f7e506f46754d5fac56f8193d993261"
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
 COUNTRY = "us"
 LANGUAGE = "en"
 POLITICIAN = "Mamdani"
