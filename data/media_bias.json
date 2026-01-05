@@ -1,0 +1,74 @@
+{
+  "sources": [
+    {
+      "journal_name": "CBC News",
+      "simulated_bias_score": -5.05,
+      "source_notes": "Based on the user's explicit instruction."
+    },
+    {
+      "journal_name": "The New York Times",
+      "simulated_bias_score": -5.5,
+      "source_notes": "Lean Left, typically high reliability."
+    },
+    {
+      "journal_name": "The Wall Street Journal",
+      "simulated_bias_score": 3.5,
+      "source_notes": "Center-Right (News sections often central, Opinion is strongly right)."
+    },
+    {
+      "journal_name": "New York Post",
+      "simulated_bias_score": 9.0,
+      "source_notes": "Strong Right/Partisan bias (tabloid style and heavy opinion coverage)."
+    },
+    {
+      "journal_name": "New York Magazine",
+      "simulated_bias_score": -6.0,
+      "source_notes": "Lean Left/Left bias, typical for city-based cultural and political commentary."
+    },
+    {
+      "journal_name": "USA Today",
+      "simulated_bias_score": -1.5,
+      "source_notes": "Center or Slight Lean Left."
+    },
+    {
+      "journal_name": "NBC News",
+      "simulated_bias_score": -4.0,
+      "source_notes": "Lean Left."
+    },
+    {
+      "journal_name": "Business Insider",
+      "simulated_bias_score": -3.0,
+      "source_notes": "Lean Left/Center, often data and finance-focused."
+    },
+    {
+      "journal_name": "The Atlantic",
+      "simulated_bias_score": -6.5,
+      "source_notes": "Lean Left/Left (focus on long-form analysis and opinion)."
+    },
+    {
+      "journal_name": "Gothamist",
+      "simulated_bias_score": -5.0,
+      "source_notes": "Lean Left/Left bias, local NYC news."
+    },
+    {
+      "journal_name": "ABC News",
+      "simulated_bias_score": -3.5,
+      "source_notes": "Lean Left."
+    },
+    {
+      "journal_name": "Fox News",
+      "simulated_bias_score": 8.0,
+      "source_notes": "Strong Right/Partisan bias."
+    },
+    {
+      "journal_name": "NY Daily News",
+      "simulated_bias_score": -5.0,
+      "source_notes": "Lean Left (New York tabloid/opinion)."
+    },
+    {
+      "journal_name": "The Seattle Times",
+      "simulated_bias_score": -2.5,
+      "source_notes": "Slight Lean Left/Center (local focus)."
+    }
+  ]
+}
